@@ -1,0 +1,260 @@
+@media only screen (max-width: 977px){
+  #nav-mobile{
+    font-size: 10px;
+    display: block;
+  }
+}
+
+@media only screen (max-width: 977px) {
+  #about-us-box{
+    font-size: 10px;
+    display: block;
+  }
+}
+
+.nav-padding{
+  padding-top: 13px;
+}
+.logo{
+  width: 300px;
+  height: 181px;
+  margin: 0 left;
+  padding-left: 30px;
+
+
+}
+
+
+.hamburger-nav{
+  display: none;
+}
+
+.hamburger-bar{
+  width: 35px;
+  height: 5px;
+  background-color: white;
+  margin: 6px 0;
+
+}
+
+@media only screen (max-width: 977px){
+  .hamburger-nav{
+    display: block;
+  }
+}
+
+
+.hero-image {
+  background-image: url(../assets/chicago-skyline.jpeg);
+  width: 100%;
+  min-height: 550px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.tagline-box{
+  /*padding-top: 100px;
+  padding-bottom: 100px;*/
+  margin: 0 auto;
+  background-color: black;
+  width: 100%;
+  height: 80px;
+
+}
+
+.tagline-text{
+  padding: 10px;
+  color: white;
+  font-family: "Roboto";
+  margin: 0 auto;
+  background-color: black;
+  width: 100%;
+  height: 80px;
+}
+
+.tagline-resize{
+  margin:0 auto;
+  font-size: 38px;
+}
+
+@media only screen (max-width: 977px){
+  .tagline-resize {
+  font-size: 10px;
+  }
+}
+
+
+.spacing {
+  padding-top: 150px;
+  padding-bottom: 150px;
+
+}
+
+
+
+.circular-spacing-left{
+  margin: 0 auto;
+  /*padding-left: 200px !important;*/
+
+}
+
+.circular-spacing-right{
+  margin: 0 auto;
+  /*padding-right: 200px !important; */
+}
+
+.image-title{
+  font-size: 26px;
+  padding: 15px;
+  font-family: "Roboto";
+  color: #1a237e;
+  /*width: 200px;
+  height: 50px;
+  color: white;
+  background-color: blue;
+  border-radius: 70px;
+  position: absolute;
+  left: 300px;
+  top: 760px;*/
+}
+
+.about-us-box{
+  /*background-color: #e1f5fe;*/
+  background-color: #1a237e;
+  /*opacity: 0.5;*/
+  padding: 45px;
+}
+.title {
+  /*padding-top: 150px;*/
+  padding-bottom: 35px;
+  margin: 0 auto;
+  font-size: 34.5px;
+  text-align: center;
+  font-family: "Roboto";
+
+
+}
+
+.about-us-sub-color{
+    color: #FFFFFF;
+}
+
+.about-us-color{
+
+  color: #0288d1;
+}
+
+
+/*.sub-hero-image{
+  background-image: url(../assets/dreamstime-1.jpg);
+  width: 100%;
+  min-height: 200px;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+
+}*/
+
+.text {
+  padding: 5px;
+  margin: 0 auto;
+  text-align: center;
+  font-family: "Roboto";
+  font-size: 17.5px;
+}
+
+.areas-title{
+  color: #1a237e;
+}
+
+.sub-title{
+  font-size: 26px;
+  text-align: center;
+  padding-top: 50px;
+  font-family: "Roboto";
+  color: #1a237e;
+}
+
+.bulleted{
+  padding: 10px;
+  color: #0288d1;
+
+
+}
+
+li{
+  padding: 5px;
+}
+
+.joan-headshot{
+  padding: 25px;
+  padding-top: 30px;
+  width: 400px;
+  height: 600px;
+}
+
+.title-attorney-clay{
+  padding-top: 100px;
+  padding-bottom: 80px;
+  color: #1a237e;
+}
+
+.contact-us-section{
+  padding: 100px;
+  max-width: 100%;
+  min-height: 1000px;
+}
+
+
+.title-contact{
+  font-size: 36px;
+  color: #1a237e;
+  padding-bottom: 100px;
+
+}
+
+.address-small{
+  padding-top: 15px;
+}
+
+.contact-col{
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.contact-form{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  max-width: 550px;
+  max-height: 450px;
+  padding-bottom: 50px;
+  margin: 0 auto;
+}
+
+.input-format{
+  border: 1px solid #1a237e;
+  padding: 50px;
+}
+
+.testimonial-wrapper{
+  width: 100%;
+  min-height: 200px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.preload-padding{
+  padding-left: 75px;
+  margin: 0 auto;
+}
+
+.disclaimer{
+  font-size: 10px;
+  padding: 20px;
+
+}
